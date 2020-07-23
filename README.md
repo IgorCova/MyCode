@@ -8,7 +8,7 @@ There is some parts of my code in different project
 #### Project for TUSUR lab Concurrent Programming about Petri Nets
 
 ## graph
-#### Project for TUSUR lab Data Structure about work with graphs and Dijkstra algortim
+#### Project for TUSUR lab Data Structure about work with graphs and Dijkstra algoritm
 
 ## OpenApi
 #### Project for Bank for integrations with outside partners companies
